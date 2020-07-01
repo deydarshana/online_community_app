@@ -74,6 +74,7 @@ body{
     margin-top: 3%;
     outline: square;
     border-radius: 0 !important;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
 }
 h4.card-title{
 	margin-left: 20px;
@@ -124,6 +125,7 @@ span.page-name{
 	margin-left: 0px;
 	border: 1px solid #E6E6E6;
 	height:3rem;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
 }
 
 input[type="text"].comment{
@@ -151,6 +153,7 @@ input[type="text"].comment{
 	border: 1px solid #DBDBDB;
 	width:60px;
 	height:60px;
+ box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.4);
 }
 .name-span{
     color: #929292;
@@ -173,6 +176,7 @@ input[type="text"].comment{
     width: 70%;  
     overflow-y: auto;
     height:240px;  
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.4);
 }
 
 
@@ -222,10 +226,10 @@ input[type="text"].comment{
     margin: 0;
     margin-top: 5%;
     background-color: #fff;
-   
     border: 1px solid #DBDBDB;
     border-radius: 2%;
     width: 70%;  
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.4);
 }
 .follow-suggestion{
     
@@ -297,6 +301,7 @@ input[type="text"].comment{
    width:50px;
   height:50px;
   margin-top: 20px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.4);
 }
 
 }
